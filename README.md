@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/cOz25am.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Managing support tickets can be a daunting task, especially for businesses dealing with a high volume of requests. An online ticketing system can streamline this process, making it easier to track, prioritize, and resolve issues. In this blog post, we will provide an overview of how to create and manage support tickets using an online ticketing system.
+Managing support tickets can be a daunting task, especially for businesses dealing with a high volume of requests. An online ticketing system can streamline this process, making it easier to track, prioritize, and resolve issues. In this post, I will provide an overview of how to create and manage support tickets using an online ticketing system.
 </p>
 <br />
 
