@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/cOz25am.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Managing support tickets can be a daunting task, especially for businesses dealing with a high volume of requests. An online ticketing system can streamline this process, making it easier to track, prioritize, and resolve issues. In this blog post, we will provide an overview of how to create and manage support tickets using an online ticketing system.
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/z7JoCSU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To create a new support ticket, navigate to the ticketing system's website and click on "Open a New Ticket". Fill in the required information, such as email address, full name, help topic, issue summary, and details. Once completed, click "Create Ticket" to submit the request. Repeat this process to create multiple tickets for different issues. After creating the tickets, close the web browser tab.
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/Fbqd9oF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To manage tickets as an agent, log in to the ticketing system with your agent credentials. Open each ticket and adjust its priority, SLA plan, and assignee as needed. Add notes or replies to keep track of the progress and communicate with other team members or the ticket requester. Once an issue is resolved, change the ticket status to "Resolved" and it will be moved to the "Closed" tab.
 </p>
 <br />
 
@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/U2nxVXQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+If needed, you can log in as an admin to grant additional access and permissions to agents. In the admin panel, navigate to Agents, select an agent, and adjust their access settings, such as department membership and role. Save the changes and log out.
 </p>
 <br />
 
@@ -65,6 +65,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/JNjWaCu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Agents can collaborate on tickets by reassigning them, adding internal notes, or posting updates on the ticket's progress. When a ticket is reassigned, the new assignee should be notified and provided with any necessary context or information.
 </p>
 <br />
